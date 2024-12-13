@@ -7,7 +7,7 @@ function App() {
 return (
   <>
     <NavBar/>
-    <ItemListContainer/>
+    <ItemListContainer title="¡Bienvenido!" text="Comienza tu compra 💍"/>
   </>
 
   )
